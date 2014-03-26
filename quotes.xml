@@ -1,0 +1,66 @@
+<library test="1" new="other" roulette="0">
+<quote category="food" roulette="0">
+<author>DanO</author>
+<text>"If it's a good idea, go ahead and do it. It's much easier to apologize than it is to get permission. - Grace Hopper"
+</text>
+</quote>
+<quote category="itp" roulette="0">
+<author>DanO</author>
+<text>
+"As we become more connected, we’ll be able to see the cause and effect of our actions in real time—what we buy, donate, eat, and throw away. We’re just starting to unlock and share information about the trillions of things that we’ve made in this world. - Tiffany Shlain"
+</text>
+</quote>
+<quote category="itp" roulette="0">
+<author>DanO</author>
+<text>
+"VidCode Vocab :)  METHOD: a method is an action that can be taken by a javascript object. "
+</text>
+</quote>
+<quote category="itp" roulette="0">
+<author>DanO</author>
+<text>
+"VidCode Vocab :)  FUNCTION: a function is a set of rules that indicate one action."
+</text>
+</quote>
+<quote category="itp" roulette="0">
+<author>DanO</author>
+<text>"No computer is ever going to ask a new, reasonable question. It takes trained people to do that.-Grace Hopper"</text>
+</quote>
+<quote category="life" roulette="0">
+<author>DanO</author>
+<text>"You have the opportunity of a lifetime at your fingertips.  -Skillcrush, on digital skills"</text>
+</quote>
+<quote category="life" roulette="1">
+<author>Xuedi</author>
+<text>"Don't just play on your phone, program it. - President Obama"</text>
+</quote>
+<quote category="life" roulette="0">
+<author>DanO</author>
+<text>
+"If you can create technology you can change the world - hourofcode.com"
+</text>
+</quote>
+<quote category="life" roulette="0">
+<author>DanO</author>
+<text>
+"Understand the language that's going to be the future - hourofcode.com"
+</text>
+</quote>
+<quote category="life" roulette="0">
+<author>Tina</author>
+<text>"I spend a lot of time writing. I get inspiration from texts rather than images.-Bill Viola"</text>
+</quote>
+<quote category="life" roulette="0">
+<author>Tina</author>
+<text>"Make mistakes, get stuck 5 times, 8 times in a row."</text>
+</quote>
+<quote category="life" roulette="0">
+<author>GOD</author>
+<text>"I did not learn how to write until my teacher said, "Do it badly" - Henry Miller"</text>
+</quote>
+<quote category="life" roulette="1">
+<author>Tina</author>
+<text>"“Clothing is . . . an exercise in memory. It makes me explore the past: how did I feel when I wore that. They are like signposts in the search for the past.” - Louise Bourgeois"
+</text>
+</quote>
+</library>

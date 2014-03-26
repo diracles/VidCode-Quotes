@@ -1,0 +1,22 @@
+{
+  "name": "VidCode",
+  "version": "1.1",
+  "description":
+    "Daily inspiration for making art and code",
+    "icons": { "128": "icon.png" },
+  "permissions": [
+    "notifications",
+    "http://www.promotionpictures.com/*",
+    "http://yui.yahooapis.com/pure/*"
+  ],
+  "options_page": "options.html",
+  "background": {
+    "scripts": ["background.js"]
+    },
+  "manifest_version": 2,
+
+  "web_accessible_resources": [
+    "48.png",
+    "128.png"
+  ]
+}

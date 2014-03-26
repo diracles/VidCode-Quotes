@@ -1,4 +1,6 @@
-VidCode-Quotes
-==============
+VidCode
+=========
 
-chrome extension for vidcode
+VidCode: Inspirational quotes for creating art and code.
+
+
